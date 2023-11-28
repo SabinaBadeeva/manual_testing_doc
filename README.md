@@ -9,4 +9,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·и отчет о результатах тестирования (test result report) [test result report](#test result report)
 
 ## <a name="mind-map" />Mindmap
-(https://i.ibb.co/G9gwWHw/image.jpg)
+[img]https://i.ibb.co/G9gwWHw/image.jpg[/img]
