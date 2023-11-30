@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. для логичности и последовательности проверок был составлен  [чек-лист](#check-list), что позволило структурировать информацию<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. были разработанны и пройденны  [тест-кейсы](#test-cases) с методами эквивалентного разбиения и граничных значений<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. на основании тест-кейсов оформлены [баг-репорты](#bug-reports)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. составлен итоговый отчет с результатом и анализом тестирования [test result report](#test-result-report), где был сделан [список выполеных проверок](#list-of-completed-checks) и [список дефектов](#list-of-defects) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. составлен итоговый  [отчет с результатом и анализом тестирования](#test-result-report), где был сделан [список выполеных проверок](#list-of-completed-checks) и [список дефектов](#list-of-defects) <br>
 - сделана оценка эффективности проведенного тестирования на основе сбора итоговых результатов с помощью  [метрик и графиков](#metrica);<br>
   
 
