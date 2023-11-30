@@ -15,7 +15,7 @@
   
 
 
-<img src="https://i.ibb.co/kQrVGCc/2023-11-29-030222.jpg" alt="2023-11-29-030222" border="0">
+<img src="https://i.ibb.co/3Yz5TGX/2023-12-01-024623.jpg" alt="2023-12-01-024623" border="0">
 
 ## <a name="testings" />Тестовая документация 
 
