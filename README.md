@@ -122,12 +122,7 @@
 
 <details>
     <summary> Metrics and graphs</summary>
-
-<img src="https://i.ibb.co/PzG8sbL/2023-11-29-044009.jpg" alt="2023-11-29-044009" border="0">
-<img src="https://i.ibb.co/QcJ7vdJ/2023-11-29-044031.jpg" alt="2023-11-29-044031" border="0">
-<img src="https://i.ibb.co/z89S22C/2023-11-29-044113.jpg" alt="2023-11-29-044113" border="0">
-<img src="https://i.ibb.co/W56Lphw/2023-11-29-044155.jpg" alt="2023-11-29-044155" border="0">
-<img src="https://i.ibb.co/ggVT3z9/2023-11-29-044220.jpg" alt="2023-11-29-044220" border="0">
+<img src="https://i.ibb.co/j68QCnM/Untitled-1.jpg" alt="Untitled-1" border="0">
 
 [Наверх](#up)
 </details>
